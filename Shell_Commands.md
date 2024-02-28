@@ -154,8 +154,8 @@
 
 ![image](https://github.com/Anusha2710/AWS-Basics/assets/47424821/9be821ac-1d06-4027-bf91-f90ad2532e12)
 
-Here,  ps -ef = prints processes in full format
-       grep = filter the output with specific keyword
+Here,  ps -ef = prints processes in full format,
+       grep = filter the output with specific keyword,
        pipe = get output from first command and send it to second command
 
 2- We need only process ids of "amazon" processes
