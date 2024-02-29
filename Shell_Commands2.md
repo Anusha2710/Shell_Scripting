@@ -103,12 +103,14 @@ Lets try using GREP command, it prints the entire line
 
 20.
 
-In every company whenever an application is failing we go to log file and check the errors
-Lets upload the log files to external storage i.e; github
-Here, we use CURL command - retrieves the info from internet
+- In every company whenever an application is failing we go to log file and check the errors
+- Lets upload the log files to external storage i.e; github
+- Here, we use CURL command - retrieves the info from internet
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/427b10f1-c914-4029-942d-7312c816a663)
 here we simply used curl along with grep command
+
+- we can also use [curl -X GET api.(name)] to get the info from this api
 
 
 
