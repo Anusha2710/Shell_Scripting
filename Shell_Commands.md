@@ -165,7 +165,19 @@ Here,  ps -ef = prints processes in full format,
 ![image](https://github.com/Anusha2710/AWS-Basics/assets/47424821/f7fd9594-7cdf-4ed8-bef6-2f4163e9d68b)
 
 Here, awk = prints output in specific column (here we are printing data in 2nd column)
-       
+
+eg:
+Lets create a test file now, try to print my name here
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/288f9a51-683b-49c6-90de-3bef482c6ead)
+
+Lets try using GREP command, it prints the entire line
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/a29e246e-fd41-47d9-92ab-a373bf26739c)
+
+ Lets try using GREP with AWK, now it gives only my name
+
+ 
 19. Shell Script4 (Imp Interview Question):
 - If we use date command, it prints todays date
 
