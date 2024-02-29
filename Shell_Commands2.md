@@ -1,4 +1,5 @@
 -- Lets execute the file now 
+
 ![image](https://github.com/Anusha2710/AWS-Basics/assets/47424821/49562769-a0be-4551-8a9d-0f13e99a1eca)
 
 - we can also execute by using "./" as (./my-first-shell-script.sh)
