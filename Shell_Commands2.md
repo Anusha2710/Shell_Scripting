@@ -101,7 +101,7 @@ Lets try using GREP command, it prints the entire line
 ![image](https://github.com/Anusha2710/AWS-Basics/assets/47424821/20c7341f-0b37-426a-a0c0-dbf08057b81c)
 - Because, date is a system default command, it sends output to stdin, as pipe works only if it passes the info to next command but not stdio i.e: echo
 
-20.
+20. CURL vs WGET:
 
 - In every company whenever an application is failing we go to log file and check the errors
 - Lets upload the log files to external storage i.e; github
@@ -111,6 +111,15 @@ Lets try using GREP command, it prints the entire line
 here we simply used curl along with grep command
 
 - we can also use [curl -X GET api.(name)] to get the info from this api
+
+- Here, we can also use WGET command - it downloads the file
+- As file is downloaded, we need to use "cat" command to display contatent along with grep to search the pattern
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/ff3a51d6-f22a-47d7-abf2-dab2d99b4dee)
+
+So, using CURL we are using 1 command and WGET 2 commands
+If we dont want to download files and only display contents we use CURL, and if we want to download file in local disk we use WGET here.
+
 
 
 
