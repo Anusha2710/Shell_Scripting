@@ -133,6 +133,25 @@ If we dont want to download files and only display contents we use CURL, and if 
 - if we want to switch user we use this command below
   ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/1144bc27-e1e8-42d7-8844-58801032b355)
 
+22. IF loop:
+
+syntax:
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/abdb10dc-44c6-4a70-9307-5b0dd5b42e8b)
+
+eg: shell script to fing greater than 2 numbers
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/913a0250-f86e-4965-a16b-be08f8569b32)
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/112758ae-9361-4e0b-91c5-9fb2873b8e34)
+
+23. FOR loop:
+
+syntax:
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/be7d32ad-136e-40b0-b641-489f7ec27d18)
+
+eg: shell script to print 10 numbers
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/594aa2d2-1f36-49f8-aa7b-98ba75d15581)
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5113cdb0-f8fb-4ec2-9778-60b6f2646c77)
+
+
 
 
 
