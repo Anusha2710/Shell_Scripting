@@ -120,7 +120,18 @@ here we simply used curl along with grep command
 So, using CURL we are using 1 command and WGET 2 commands
 If we dont want to download files and only display contents we use CURL, and if we want to download file in local disk we use WGET here.
 
+21. FIND command:
 
+- if we want to find any file in any of the directories we use FIND command.
+- suppose we want to find this file
+  ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/a36f1ad4-2fbe-4d7a-aec6-e997451868b5)
+
+  - use SUDO command infront of file command
+  ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/10def126-7d92-4c70-922c-d3afad92dff5)
+
+- here, sudo is the root user, we are granting permission to access root user as the directories 
+- if we want to switch user we use this command below
+  ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/1144bc27-e1e8-42d7-8844-58801032b355)
 
 
 
