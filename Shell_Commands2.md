@@ -151,8 +151,7 @@ eg: shell script to print 10 numbers
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/594aa2d2-1f36-49f8-aa7b-98ba75d15581)
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5113cdb0-f8fb-4ec2-9778-60b6f2646c77)
 
-
-
+24. TRAP command:
 
 
 
