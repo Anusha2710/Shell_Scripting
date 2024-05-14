@@ -33,6 +33,19 @@ Here, Uptime Command is used to find out how long the system is active (running)
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/c835a334-0f2b-40dd-b924-923b96b2c59f)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/c9578fe4-bdb8-4d1a-979d-a97ffcdae105)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5da132af-6e45-4e6b-8f08-e6b90feeaabb)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/752bd15a-65f5-4aa2-b765-2d2ef8ffcf3d)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/da96fb3f-ab0c-4d1f-aebc-f15def89cfa0)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8ec62b16-fa77-4bd8-a40b-cf351db23ef2)
+
+
+
+
 
 
 
