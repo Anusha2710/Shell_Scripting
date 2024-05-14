@@ -38,28 +38,74 @@ Here, Uptime Command is used to find out how long the system is active (running)
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5da132af-6e45-4e6b-8f08-e6b90feeaabb)
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/752bd15a-65f5-4aa2-b765-2d2ef8ffcf3d)
+
 Here, in linux OS
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/ce936e9e-a2ac-4cde-bd5e-135606fad310)
+
 Here, in Mac OS
 
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/da96fb3f-ab0c-4d1f-aebc-f15def89cfa0)
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8ec62b16-fa77-4bd8-a40b-cf351db23ef2)
+
 In Linux
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8ac63a05-88fa-46bb-9de9-6c4dabf59685)
+
 In Mac
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/290090b9-5039-4f3d-9d06-1820e8dd9697)
+
 Git in Linux
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5a9e706c-d72a-4211-af7d-c0dee67de912)
+
 Check Git
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/13eb9165-619b-4705-b6ab-ea1175a3b22c)
+
 Git in Mac
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/d38db358-1b23-4739-9b77-50f1ba3b29bc)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/1c42b435-9d04-43db-9d19-8b847f7517de)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/ad3d0862-df1c-436c-9262-8cfcbe8c80c9)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/4bdebe05-0447-4ef8-b4a3-d4387b29bde7)
+
+Enable Line Numbers: In “Command” mode, type :set number and press Enter. This will display line numbers along the left-hand side of the editor.
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/fedac8e7-034d-4117-b1b6-ee2174706fc7)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/d433068f-4f18-459a-a13a-3622453d8900)
+
+Less command is a Linux utility that can be used to read the contents of a text file one page (one screen) at a time. It has faster access because if a file is large, it doesn’t access the complete file, but accesses it page by page. And exit by :q
+
+more command is used to view the text files in the command prompt, displaying one screen at a time in case the file is large (For example log files). The more command also allows the user do scroll up and down through the page.
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/861eeba0-6ee8-4532-818d-1bb3d0a0c026)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/2a16624f-626b-4801-afce-f99ed26fd576)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/f1abf969-1f4d-493b-b445-2eaef2174fd5)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8cfc302c-7080-4774-a587-55ce17bb1a36)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/853f7c4e-bee2-4595-8560-64a02896415f)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/431a8af0-a150-45e7-a33f-7c57adc3fdcf)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/df9d8a30-41a9-456d-badb-4a21c47f47fb)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5ed9fae8-e763-41b6-bd56-79e96cfbdb09)
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/7ec5bb35-c34e-4ae1-9f0b-a2591e0489ca)
+
+
+
 
 
 
