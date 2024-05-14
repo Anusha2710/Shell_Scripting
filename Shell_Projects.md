@@ -104,10 +104,15 @@ more command is used to view the text files in the command prompt, displaying on
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/7ec5bb35-c34e-4ae1-9f0b-a2591e0489ca)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/49b24ce6-3af2-4e6f-9b6e-82d6064d6274)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/06d055e1-5383-4a69-be09-4293b977bef6)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/d4c2ee57-412f-4baf-8888-d7d8f1b9f4c3)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/d2f12785-de44-4cc8-acf8-8e07df6cb99c)
 
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/6076d880-777a-4a01-b7d9-897629003cc4)
 
 
 
