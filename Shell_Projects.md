@@ -38,10 +38,28 @@ Here, Uptime Command is used to find out how long the system is active (running)
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5da132af-6e45-4e6b-8f08-e6b90feeaabb)
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/752bd15a-65f5-4aa2-b765-2d2ef8ffcf3d)
+Here, in linux OS
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/ce936e9e-a2ac-4cde-bd5e-135606fad310)
+Here, in Mac OS
+
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/da96fb3f-ab0c-4d1f-aebc-f15def89cfa0)
 
 ![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8ec62b16-fa77-4bd8-a40b-cf351db23ef2)
+In Linux
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/8ac63a05-88fa-46bb-9de9-6c4dabf59685)
+In Mac
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/290090b9-5039-4f3d-9d06-1820e8dd9697)
+Git in Linux
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/5a9e706c-d72a-4211-af7d-c0dee67de912)
+Check Git
+
+![image](https://github.com/Anusha2710/Shell_Scripting/assets/47424821/13eb9165-619b-4705-b6ab-ea1175a3b22c)
+Git in Mac
 
 
 
